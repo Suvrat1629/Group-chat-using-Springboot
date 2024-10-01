@@ -31,29 +31,7 @@ This is a real-time group chat application built using **WebSockets** for commun
 - **Maven** to manage project dependencies.
 - **Web browser** for running the frontend.
 
-### Backend Setup:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/group-chat-websocket.git
-   cd group-chat-websocket
-   ```
-   
-2. Build the project:
-   ```bash
-   mvn clean install
-   ```
-
-3. Run the Spring Boot application:
-   ```bash
-   mvn spring-boot:run
-   ```
-
    The backend server will start on `http://localhost:8080`.
-
-### Frontend Setup:
-1. Open the `index.html` file located in the `frontend` directory in your web browser.
-
-2. The chat UI should appear, and you can start chatting by entering a message and pressing the send button.
 
 ### WebSocket Endpoint:
 - The WebSocket connection is established at the following endpoint:
