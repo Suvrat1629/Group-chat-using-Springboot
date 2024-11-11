@@ -74,10 +74,3 @@ group-chat-websocket/
 - **Chat History**: Store and display previous messages when users join the chat.
 - **File Sharing**: Enable users to share files in the chat.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Feel free to modify it based on your specific requirements!
