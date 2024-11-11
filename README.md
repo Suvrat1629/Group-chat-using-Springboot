@@ -1,6 +1,3 @@
-Here’s a sample README for your group chat project using WebSockets, Spring Boot, and a frontend built with HTML, CSS, and JavaScript:
-
----
 
 # Group Chat Application
 
