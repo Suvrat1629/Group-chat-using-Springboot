@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: group-chat
+    env: docker
+    buildCommand: docker build -t group-chat .
+    startCommand: docker run -p 8080:8080 group-chat
+    autoDeploy: true
